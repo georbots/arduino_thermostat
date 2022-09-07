@@ -1,4 +1,4 @@
-# arduino thermostat script
+# Arduino Thermostat script
 
 ##Small university project
 
